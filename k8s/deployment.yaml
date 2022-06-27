@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: cv-app
-        image: gcr.io/MLops/imgwebapp:v1
+        image: gcr.io/mlops-353508/imgwebapp:v1
         ports:
         - containerPort: 8501
